@@ -1,8 +1,9 @@
 # Bubble Pie Chart
 
 [![View Bubble Pie Chart on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/98874-bubble-pie-chart)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?host=www.mathworks.com&repo=matlabcentral/fileexchange)
 
-Version: 1.0
+Version: 1.0.1
 
 bubblePieChart Creates a bubble pie chart.
 
